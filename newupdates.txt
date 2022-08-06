@@ -1,4 +1,4 @@
-Updates day/month/2022
+<b>Updates day/month/2022</b>
 - New Loading screen (ur here now, hello)
 - point 2
 - point 3
